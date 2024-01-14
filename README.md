@@ -1,7 +1,3 @@
-Certainly! Below is a README template for your GitHub repository that describes your changepoint detection program:
-
----
-
 # Changepoint Detection in RedCarpet Genome
 
 ## Overview
@@ -56,7 +52,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Your Name - [YamaliS@chop.edu](mailto:YamaliS@chop.edu)
 
 Project Link: [https://github.com/SomeOne1Random/ChangePointFinderRedCarpet](https://github.com/SomeOne1Random/ChangePointFinderRedCarpet)
-
----
-
-Replace `[YourUsername]`, `Your Name`, and `YourEmail@example.com` with your GitHub username, your name, and your email address, respectively. You can also modify any section to better fit your project's needs.
