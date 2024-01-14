@@ -53,9 +53,9 @@ Contributions, issues, and feature requests are welcome! Feel free to check [iss
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
-Your Name - [YourEmail@example.com](mailto:YourEmail@example.com)
+Your Name - [YamaliS@chop.edu](mailto:YamaliS@chop.edu)
 
-Project Link: [https://github.com/[YourUsername]/redcarpet-changepoint-detection](https://github.com/[YourUsername]/redcarpet-changepoint-detection)
+Project Link: [https://github.com/SomeOne1Random/ChangePointFinderRedCarpet](https://github.com/SomeOne1Random/ChangePointFinderRedCarpet)
 
 ---
 
