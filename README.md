@@ -49,6 +49,6 @@ Contributions, issues, and feature requests are welcome! Feel free to check [iss
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
-Your Name - [YamaliS@chop.edu](mailto:YamaliS@chop.edu)
+Srujan Yamali - [YamaliS@chop.edu](mailto:YamaliS@chop.edu)
 
 Project Link: [https://github.com/SomeOne1Random/ChangePointFinderRedCarpet](https://github.com/SomeOne1Random/ChangePointFinderRedCarpet)
